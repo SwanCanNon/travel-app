@@ -15,3 +15,5 @@
 #PID: 2114765
 #Course: COP 4338
 #clientTravel.py: A simple command-line client to interact with the server.
+
+TODO: Requirements, installation instructions
